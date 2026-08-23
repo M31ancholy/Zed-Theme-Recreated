@@ -1,0 +1,21 @@
+{
+  "name": "zed-theme-copy",
+  "displayName": "zed-theme-copy",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.134.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "zed-one-light",
+        "uiTheme": "vs",
+        "path": "./themes/zed-one-light.json"
+      }
+    ]
+  }
+}
