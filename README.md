@@ -1,4 +1,4 @@
-# zed-theme-custom README
+# Zed Theme Recreated README
 
 ## Working with Markdown
 
