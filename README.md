@@ -1,5 +1,12 @@
 # Zed Theme Recreated README
 
+This extension recreates Zed's built-in themes for Visual Studio Code.
+
+## Included themes
+
+* `zed-one-light`
+* `zed-ayu-dark`
+
 ## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:

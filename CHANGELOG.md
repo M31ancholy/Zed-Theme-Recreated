@@ -6,4 +6,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+- Added the `zed-ayu-dark` theme based on Zed's built-in Ayu Dark palette.

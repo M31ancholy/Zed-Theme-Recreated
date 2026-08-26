@@ -1,8 +1,8 @@
 {
-  "name": "Zed Theme Recreated",
+  "name": "zed-theme-copy",
   "displayName": "Zed Theme Recreated",
   "description": "",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.134.0"
   },
@@ -15,6 +15,11 @@
         "label": "zed-one-light",
         "uiTheme": "vs",
         "path": "./themes/zed-one-light.json"
+      },
+      {
+        "label": "zed-ayu-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zed-ayu-dark.json"
       }
     ]
   }
