@@ -9,6 +9,7 @@
 		"sideBar.background": "#ebebec",
 		"sideBar.foreground": "#242529",
 		"sideBar.border": "#c9c9ca",
+		"sash.hoverBorder": "#7e8086",
 		"sideBarTitle.foreground": "#242529",
 		"sideBarSectionHeader.background": "#dcdcdd",
 		"sideBarSectionHeader.foreground": "#242529",
