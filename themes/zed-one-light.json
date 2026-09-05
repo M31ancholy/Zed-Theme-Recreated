@@ -32,7 +32,7 @@
 		"titleBar.activeForeground": "#242529",
 		"titleBar.inactiveBackground": "#ebebec",
 		"panel.background": "#ebebec",
-		"panel.border": "#7d82e8",
+		"panel.border": "#cccccc",
 		"panelTitle.activeForeground": "#242529",
 		"tab.activeBackground": "#fafafa",
 		"tab.activeForeground": "#242529",
