@@ -36,6 +36,8 @@
 		"panelTitle.activeForeground": "#242529",
 		"tab.activeBackground": "#fafafa",
 		"tab.activeForeground": "#242529",
+		"tab.activeBorderTop": "#00000000",
+		"tab.unfocusedActiveBorderTop": "#00000000",
 		"tab.inactiveBackground": "#ebebec",
 		"tab.inactiveForeground": "#58585a",
 		"tab.border": "#dfdfe0",
