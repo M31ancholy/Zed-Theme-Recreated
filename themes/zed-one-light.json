@@ -30,7 +30,7 @@
 		"statusBar.remoteForeground": "#242529",
 		"titleBar.activeBackground": "#dcdcdd",
 		"titleBar.activeForeground": "#242529",
-		"titleBar.inactiveBackground": "#ebebec",
+		"titleBar.inactiveBackground": "#e0e0e1",
 		"panel.background": "#ebebec",
 		"panel.border": "#cccccc",
 		"panelTitle.activeForeground": "#242529",
