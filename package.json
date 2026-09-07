@@ -4,6 +4,7 @@
   "description": "Unofficial recreations of Zed's One Light and Ayu Dark themes for Visual Studio Code.",
   "version": "0.0.11",
   "license": "MIT",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/M31ancholy/Zed-Theme-Recreated.git"
