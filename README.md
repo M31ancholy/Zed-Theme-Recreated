@@ -1,23 +1,18 @@
-# Zed Theme Recreated README
+# Zed Theme Recreated - A VScode Plugin
 
 This extension recreates Zed's built-in themes for Visual Studio Code.
+
+## Preview
+
+![Theme preview in Visual Studio Code](images/zed-one-light.png)
 
 ## Included themes
 
 * `zed-one-light`
 * `zed-ayu-dark`
 
-## Working with Markdown
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Note
+`zed-one-light` is carefully maintained to closely match the original Zed theme. 
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+`zed-ayu-dark` may have subtle visual differences from its Zed counterpart.
