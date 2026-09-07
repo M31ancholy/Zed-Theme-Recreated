@@ -1,7 +1,7 @@
 {
-  "name": "zed-theme-copy",
+  "name": "zed-theme-recreated",
   "displayName": "Zed Theme Recreated",
-  "description": "",
+  "description": "Unofficial Zed-inspired One Light And Ayu Dark themes for VS code",
   "version": "0.0.10",
   "engines": {
     "vscode": "^1.134.0"
