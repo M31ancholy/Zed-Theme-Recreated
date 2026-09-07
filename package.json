@@ -2,7 +2,7 @@
   "name": "zed-theme-recreated",
   "displayName": "Zed Theme Recreated",
   "description": "Unofficial recreations of Zed's One Light and Ayu Dark themes for Visual Studio Code.",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "repository": {
     "type": "git",
     "url": "https://github.com/M31ancholy/Zed-Theme-Recreated.git"
