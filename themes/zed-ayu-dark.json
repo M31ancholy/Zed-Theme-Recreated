@@ -55,6 +55,7 @@
 		"sideBar.background": "#1f2127",
 		"sideBar.foreground": "#bfbdb6",
 		"sideBar.border": "#3f4043",
+		"sash.hoverBorder": "#7e8086",
 		"sideBarTitle.foreground": "#bfbdb6",
 		"sideBarSectionHeader.background": "#1f2127",
 		"sideBarSectionHeader.foreground": "#bfbdb6",
